@@ -1,18 +1,7 @@
-<!-- ============================================================
-     JUSTINE MAE MACARIO · GitHub Profile README
-     st00pid-cloud/st00pid-cloud
-     ============================================================ -->
 
 <div align="center">
 
 <!-- ASCII / DISPLAY BANNER -->
-```
-╔══════════════════════════════════════════════════════════════╗
-║   J U S T I N E   M A E   M A C A R I O                    ║
-║   Technical Project Manager  ·  Security Researcher         ║
-║   Cloud Practitioner  ·  From the Cordilleras to the Cloud  ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=800&color=E8FF47&center=true&vCenter=true&width=600&lines=Build+and+Break%3B+%2F%2F+core+philosophy;Translating+technical+barriers+into+roadmaps.;AWS+Certified+Cloud+Practitioner+%7C+CLF-C02;Security+Researcher+%7C+DevSecOps+%7C+Agentic+AI;DOST+MERIT+Scholar+%7C+University+of+the+Cordilleras)](https://git.io/typing-svg)
 
@@ -29,9 +18,7 @@ role:       Technical Project Manager · Security Researcher · Cloud Practition
 education:  B.S. Computer Science @ University of the Cordilleras
             DOST MERIT Scholar — Dept. of Science & Technology
 location:   Cordillera Administrative Region, Philippines 🇵🇭
-mission:    >
-  Translation. Translate technical barriers into actionable project roadmaps.
-  Building secure, intelligent systems from the Cordilleras to the Cloud.
+mission:    Build & Break for the community
 ```
 
 ---
@@ -58,7 +45,7 @@ Context-aware analysis, Advanced Prompt Engineering & Agentic Systems
 
 **`[ SEC ]`**
 Security Research
-DevSecOps · High-Assurance Methodologies · Automated Threat Mitigation
+DevSecOps · High-Assurance Methodologies 
 
 </td>
 <td width="25%" align="center">

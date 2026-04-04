@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. This is still under construction, will do it during my breaks!
 
 <!--
 **st00pid-cloud/st00pid-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

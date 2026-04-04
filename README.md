@@ -118,9 +118,6 @@ AWS Certified · Cloud-Native Architectures · Infrastructure Agility
 
 ---
 
-
-*Open to opportunities — from the Cordilleras to the Cloud.*
-
 </div>
 
 ---

@@ -131,25 +131,6 @@ AWS Certified · Cloud-Native Architectures · Infrastructure Agility
 
 ---
 
-## `$ git log --oneline --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st00pid-cloud&show_icons=true&theme=dark&bg_color=0a0a0f&border_color=2a2a3a&icon_color=E8FF47&title_color=E8FF47&text_color=7a7a9a&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st00pid-cloud&layout=compact&theme=dark&bg_color=0a0a0f&border_color=2a2a3a&title_color=E8FF47&text_color=7a7a9a)
-
-</div>
-
----
-
-## `$ curl connect.jm`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=E8FF47)](https://linkedin.com/in/jpalisoc)
-[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=E8FF47)](mailto:hello@jpalisoc.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=E8FF47)](https://github.com/st00pid-cloud)
 
 *Open to opportunities — from the Cordilleras to the Cloud.*
 
